@@ -4,8 +4,8 @@
  * L&T quote generator
  */
 
-var things = ["robots", "food", "Dance", "sleeping", "Math", "Architecture"];
-var programmers = ["crazy people that are probably going to destroy the world", "eater", "choreographer", "sleeper", "mathematician", "architect"]
+var things = ["who know", "food", "Dance", "sleeping", "Math", "insanity"];
+var programmers = ["qho cares", "eater", "choreographer", "sleeper", "mathematician", "republican"]
 var castles = ["museums", "bridges", "cities"]
 var exertions = ["effort", "strain", "struggle", "toil", "endeavor", "hard work", "labor"];
 var airs = ["sky", "atmosphere", "heavens", "ether", "wind"];
